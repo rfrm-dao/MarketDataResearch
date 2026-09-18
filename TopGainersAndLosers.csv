@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-near,near,NEAR Protocol,3.49,29.33461,40.2,gainer_24h
-uniswap,uni,Uniswap,8.58,27.07947,37.9,gainer_24h
-memecore,m,MemeCore,1.28,14.38645,9.3,gainer_24h
-polkadot,dot,Polkadot,1.15,13.18255,-1.2,gainer_24h
-bitcoin-cash,bch,Bitcoin Cash,247.07,11.6047,8.3,gainer_24h
-hyperliquid,hype,Hyperliquid,87.71,10.71942,10.6,gainer_24h
-zcash,zec,Zcash,1497.86,10.58958,39.1,gainer_24h
-pump-fun,pump,Pump.fun,0.00427737,10.06745,14.4,gainer_24h
-canton-network,cc,Canton,0.108844,10.05654,10.5,gainer_24h
-aave,aave,Aave,134.58,9.77577,8.5,gainer_24h
-leo-token,leo,LEO Token,8.91,-0.37015,-2.0,loser_24h
-figure-heloc,figr_heloc,Figure Heloc,1.028,-0.15077,-0.7,loser_24h
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.14,-0.11719,0.0,loser_24h
-ethena-usde,usde,Ethena USDe,0.999299,-0.00702,0.0,loser_24h
-dai,dai,Dai,0.999992,-0.00657,0.0,loser_24h
-usd-coin,usdc,USDC,0.999534,-0.00573,0.0,loser_24h
-ripple-usd,rlusd,Ripple USD,0.999836,-0.00448,0.0,loser_24h
-global-dollar,usdg,Global Dollar,0.999954,-0.00349,0.0,loser_24h
-tether,usdt,Tether,0.999183,-3e-05,0.0,loser_24h
+near,near,NEAR Protocol,3.48,29.08385,40.2,gainer_24h
+uniswap,uni,Uniswap,8.6,27.07043,37.9,gainer_24h
+memecore,m,MemeCore,1.28,14.43641,9.3,gainer_24h
+polkadot,dot,Polkadot,1.14,13.0069,-1.2,gainer_24h
+bitcoin-cash,bch,Bitcoin Cash,246.83,11.55076,8.3,gainer_24h
+hyperliquid,hype,Hyperliquid,87.67,10.71556,10.6,gainer_24h
+zcash,zec,Zcash,1496.91,10.39805,39.1,gainer_24h
+pump-fun,pump,Pump.fun,0.00427414,10.10607,14.4,gainer_24h
+canton-network,cc,Canton,0.108757,10.01366,10.5,gainer_24h
+aave,aave,Aave,134.58,9.69836,8.5,gainer_24h
+leo-token,leo,LEO Token,8.91,-0.37069,-2.0,loser_24h
+figure-heloc,figr_heloc,Figure Heloc,1.028,-0.14929,-0.7,loser_24h
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.14,-0.08941,0.0,loser_24h
+dai,dai,Dai,0.999986,-0.02759,0.0,loser_24h
+ethena-usde,usde,Ethena USDe,0.999307,-0.01169,0.0,loser_24h
+usd-coin,usdc,USDC,0.999557,-0.00716,0.0,loser_24h
+global-dollar,usdg,Global Dollar,0.999979,-0.00581,0.0,loser_24h
+ripple-usd,rlusd,Ripple USD,0.999959,-0.00355,0.0,loser_24h
+tether,usdt,Tether,0.99919,-0.00158,0.0,loser_24h
 blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,1.0,0.0,0.0,loser_24h
-near,near,NEAR Protocol,3.49,29.33461,40.2,gainer_7d
-zcash,zec,Zcash,1497.86,10.58958,39.1,gainer_7d
-uniswap,uni,Uniswap,8.58,27.07947,37.9,gainer_7d
-pump-fun,pump,Pump.fun,0.00427737,10.06745,14.4,gainer_7d
-hyperliquid,hype,Hyperliquid,87.71,10.71942,10.6,gainer_7d
-canton-network,cc,Canton,0.108844,10.05654,10.5,gainer_7d
-memecore,m,MemeCore,1.28,14.38645,9.3,gainer_7d
-aave,aave,Aave,134.58,9.77577,8.5,gainer_7d
-bitcoin-cash,bch,Bitcoin Cash,247.07,11.6047,8.3,gainer_7d
-stellar,xlm,Stellar,0.186448,2.03521,6.2,gainer_7d
-rain,rain,Rain,0.01302537,0.93776,-19.6,loser_7d
-ripple,xrp,XRP,1.32,1.46937,-2.3,loser_7d
-leo-token,leo,LEO Token,8.91,-0.37015,-2.0,loser_7d
-polkadot,dot,Polkadot,1.15,13.18255,-1.2,loser_7d
-tron,trx,TRON,0.335911,0.17404,-0.9,loser_7d
-figure-heloc,figr_heloc,Figure Heloc,1.028,-0.15077,-0.7,loser_7d
-whitebit,wbt,WhiteBIT Coin,79.75,1.39313,-0.1,loser_7d
-tether,usdt,Tether,0.999183,-3e-05,0.0,loser_7d
-usds,usds,USDS,0.999674,0.03091,0.0,loser_7d
-ethena-usde,usde,Ethena USDe,0.999299,-0.00702,0.0,loser_7d
+near,near,NEAR Protocol,3.48,29.08385,40.2,gainer_7d
+zcash,zec,Zcash,1496.91,10.39805,39.1,gainer_7d
+uniswap,uni,Uniswap,8.6,27.07043,37.9,gainer_7d
+pump-fun,pump,Pump.fun,0.00427414,10.10607,14.4,gainer_7d
+hyperliquid,hype,Hyperliquid,87.67,10.71556,10.6,gainer_7d
+canton-network,cc,Canton,0.108757,10.01366,10.5,gainer_7d
+memecore,m,MemeCore,1.28,14.43641,9.3,gainer_7d
+aave,aave,Aave,134.58,9.69836,8.5,gainer_7d
+bitcoin-cash,bch,Bitcoin Cash,246.83,11.55076,8.3,gainer_7d
+stellar,xlm,Stellar,0.186206,1.89123,6.2,gainer_7d
+rain,rain,Rain,0.01302752,1.11051,-19.6,loser_7d
+ripple,xrp,XRP,1.32,1.44815,-2.3,loser_7d
+leo-token,leo,LEO Token,8.91,-0.37069,-2.0,loser_7d
+polkadot,dot,Polkadot,1.14,13.0069,-1.2,loser_7d
+tron,trx,TRON,0.33588,0.15149,-0.9,loser_7d
+figure-heloc,figr_heloc,Figure Heloc,1.028,-0.14929,-0.7,loser_7d
+whitebit,wbt,WhiteBIT Coin,79.72,1.4595,-0.1,loser_7d
+tether,usdt,Tether,0.99919,-0.00158,0.0,loser_7d
+usds,usds,USDS,0.999738,0.03896,0.0,loser_7d
+ethena-usde,usde,Ethena USDe,0.999307,-0.01169,0.0,loser_7d
