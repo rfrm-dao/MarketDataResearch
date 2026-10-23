@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-bitcoin-cash,bch,Bitcoin Cash,285.19,2.52684,2.9726,gainer_24h
-worldcoin-wld,wld,Worldcoin,0.554219,2.08728,10.1923,gainer_24h
-uniswap,uni,Uniswap,7.24,1.67781,-2.9435,gainer_24h
-ethena,ena,Ethena,0.201596,1.4897,-0.5085,gainer_24h
-binancecoin,bnb,BNB,743.42,0.73146,1.6795,gainer_24h
-shiba-inu,shib,Shiba Inu,5.06e-06,0.53651,-1.901,gainer_24h
-dogecoin,doge,Dogecoin,0.080034,0.37655,-2.5217,gainer_24h
-chainlink,link,Chainlink,12.22,0.35036,-2.1458,gainer_24h
-sui,sui,Sui,0.998963,0.29624,-3.7575,gainer_24h
-crypto-com-chain,cro,Cronos,0.057387,0.17086,-1.6585,gainer_24h
-monero,xmr,Monero,606.6,-6.50961,9.4147,loser_24h
-pump-fun,pump,Pump.fun,0.00465767,-3.52984,2.7789,loser_24h
-quant-network,qnt,Quant,189.55,-3.4772,-9.1336,loser_24h
-rain,rain,Rain,0.00859107,-2.83698,-11.4956,loser_24h
-bitway,btw,Bitway,1.72,-2.74392,-13.0957,loser_24h
-zcash,zec,Zcash,1232.28,-2.67354,0.8284,loser_24h
-tether-gold,xaut,Tether Gold,4013.36,-1.98806,-3.3673,loser_24h
-the-open-network,gram,Gram (prev. Toncoin),1.32,-1.61444,-4.6938,loser_24h
-canton-network,cc,Canton,0.103115,-1.53004,-2.3478,loser_24h
-okb,okb,OKB,112.31,-1.36517,-4.8351,loser_24h
-worldcoin-wld,wld,Worldcoin,0.554219,2.08728,10.1923,gainer_7d
-monero,xmr,Monero,606.6,-6.50961,9.4147,gainer_7d
-bitcoin-cash,bch,Bitcoin Cash,285.19,2.52684,2.9726,gainer_7d
-pump-fun,pump,Pump.fun,0.00465767,-3.52984,2.7789,gainer_7d
-binancecoin,bnb,BNB,743.42,0.73146,1.6795,gainer_7d
-zcash,zec,Zcash,1232.28,-2.67354,0.8284,gainer_7d
+bitcoin-cash,bch,Bitcoin Cash,285.12,2.60356,2.9726,gainer_24h
+worldcoin-wld,wld,Worldcoin,0.554455,2.17761,10.1923,gainer_24h
+uniswap,uni,Uniswap,7.24,1.68637,-2.9435,gainer_24h
+ethena,ena,Ethena,0.201493,1.50025,-0.5085,gainer_24h
+binancecoin,bnb,BNB,743.7,0.80085,1.6795,gainer_24h
+shiba-inu,shib,Shiba Inu,5.06e-06,0.46146,-1.901,gainer_24h
+dogecoin,doge,Dogecoin,0.08003,0.43723,-2.5217,gainer_24h
+chainlink,link,Chainlink,12.22,0.41123,-2.1458,gainer_24h
+sui,sui,Sui,0.998873,0.31803,-3.7575,gainer_24h
+crypto-com-chain,cro,Cronos,0.057377,0.18942,-1.6585,gainer_24h
+monero,xmr,Monero,606.67,-6.3627,9.4147,loser_24h
+quant-network,qnt,Quant,189.52,-3.52429,-9.1336,loser_24h
+pump-fun,pump,Pump.fun,0.00465359,-3.42942,2.7789,loser_24h
+bitway,btw,Bitway,1.72,-3.40196,-13.0957,loser_24h
+rain,rain,Rain,0.00858955,-2.80996,-11.4956,loser_24h
+zcash,zec,Zcash,1231.58,-2.69911,0.8284,loser_24h
+tether-gold,xaut,Tether Gold,4013.54,-1.96227,-3.3673,loser_24h
+the-open-network,gram,Gram (prev. Toncoin),1.32,-1.57734,-4.6938,loser_24h
+canton-network,cc,Canton,0.103077,-1.52926,-2.3478,loser_24h
+okb,okb,OKB,112.26,-1.36735,-4.8351,loser_24h
+worldcoin-wld,wld,Worldcoin,0.554455,2.17761,10.1923,gainer_7d
+monero,xmr,Monero,606.67,-6.3627,9.4147,gainer_7d
+bitcoin-cash,bch,Bitcoin Cash,285.12,2.60356,2.9726,gainer_7d
+pump-fun,pump,Pump.fun,0.00465359,-3.42942,2.7789,gainer_7d
+binancecoin,bnb,BNB,743.7,0.80085,1.6795,gainer_7d
+zcash,zec,Zcash,1231.58,-2.69911,0.8284,gainer_7d
 hashnote-usyc,usyc,Circle USYC,1.14,0.00926,0.0648,gainer_7d
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.15,-0.06465,0.0201,gainer_7d
-paypal-usd,pyusd,PayPal USD,0.999976,-0.01768,0.0147,gainer_7d
-usds,usds,USDS,0.999903,-0.01981,0.0073,gainer_7d
-bitway,btw,Bitway,1.72,-2.74392,-13.0957,loser_7d
-rain,rain,Rain,0.00859107,-2.83698,-11.4956,loser_7d
-quant-network,qnt,Quant,189.55,-3.4772,-9.1336,loser_7d
-bittensor,tao,Bittensor,262.8,-0.05812,-7.9575,loser_7d
-avalanche-2,avax,Avalanche,9.32,-0.42715,-7.336,loser_7d
-aave,aave,Aave,149.56,-0.04637,-6.2908,loser_7d
-ondo-finance,ondo,Ondo,0.438607,-0.67932,-6.1159,loser_7d
-cardano,ada,Cardano,0.216884,-0.6152,-5.6984,loser_7d
-hedera-hashgraph,hbar,Hedera,0.080596,-1.25741,-4.8892,loser_7d
-okb,okb,OKB,112.31,-1.36517,-4.8351,loser_7d
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.15,-0.03262,0.0201,gainer_7d
+paypal-usd,pyusd,PayPal USD,0.99998,-0.01636,0.0147,gainer_7d
+usds,usds,USDS,0.999902,-0.01741,0.0073,gainer_7d
+bitway,btw,Bitway,1.72,-3.40196,-13.0957,loser_7d
+rain,rain,Rain,0.00858955,-2.80996,-11.4956,loser_7d
+quant-network,qnt,Quant,189.52,-3.52429,-9.1336,loser_7d
+bittensor,tao,Bittensor,262.71,-0.01215,-7.9575,loser_7d
+avalanche-2,avax,Avalanche,9.31,-0.41532,-7.336,loser_7d
+aave,aave,Aave,149.53,-0.02458,-6.2908,loser_7d
+ondo-finance,ondo,Ondo,0.438465,-0.65764,-6.1159,loser_7d
+cardano,ada,Cardano,0.216899,-0.58009,-5.6984,loser_7d
+hedera-hashgraph,hbar,Hedera,0.080563,-1.21551,-4.8892,loser_7d
+okb,okb,OKB,112.26,-1.36735,-4.8351,loser_7d
