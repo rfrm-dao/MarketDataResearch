@@ -1,41 +1,41 @@
 id,symbol,name,current_price,24h_change_%,7d_change_%,type
-hyperliquid,hype,Hyperliquid,90.77,15.48369,19.728,gainer_24h
-tron,trx,TRON,0.33747,1.99064,2.3428,gainer_24h
-okb,okb,OKB,112.55,1.74539,0.3526,gainer_24h
-bitcoin-cash,bch,Bitcoin Cash,280.99,0.76013,-0.7253,gainer_24h
-quant-network,qnt,Quant,193.32,0.63895,4.0719,gainer_24h
-zcash,zec,Zcash,1245.1,0.54562,4.416,gainer_24h
-ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.15,0.10276,-0.0698,gainer_24h
-global-dollar,usdg,Global Dollar,1.0,0.02581,0.0186,gainer_24h
-ripple-usd,rlusd,Ripple USD,1.0,0.02566,0.0199,gainer_24h
-hashnote-usyc,usyc,Circle USYC,1.14,0.00942,0.0659,gainer_24h
-bitway,btw,Bitway,1.48,-17.48764,-12.8139,loser_24h
-binancecoin,bnb,BNB,706.33,-5.62833,-3.5487,loser_24h
-bittensor,tao,Bittensor,234.52,-5.05403,-9.3364,loser_24h
-uniswap,uni,Uniswap,6.68,-4.35328,-5.3428,loser_24h
-ondo-finance,ondo,Ondo,0.388548,-3.98903,-9.7494,loser_24h
-hedera-hashgraph,hbar,Hedera,0.070514,-3.8127,-11.7829,loser_24h
-rain,rain,Rain,0.0064158,-3.72335,-23.9519,loser_24h
-aave,aave,Aave,124.93,-3.69699,-14.9293,loser_24h
-ethena,ena,Ethena,0.18907,-3.42668,-6.0096,loser_24h
-shiba-inu,shib,Shiba Inu,4.67e-06,-3.3055,-6.599,loser_24h
-hyperliquid,hype,Hyperliquid,90.77,15.48369,19.728,gainer_7d
-memecore,m,MemeCore,1.011,-2.94722,16.5118,gainer_7d
-pepe,pepe,Pepe,4.89e-06,-0.34678,8.449,gainer_7d
-zcash,zec,Zcash,1245.1,0.54562,4.416,gainer_7d
-leo-token,leo,LEO Token,9.43,-0.19434,4.3981,gainer_7d
-quant-network,qnt,Quant,193.32,0.63895,4.0719,gainer_7d
-tron,trx,TRON,0.33747,1.99064,2.3428,gainer_7d
-okb,okb,OKB,112.55,1.74539,0.3526,gainer_7d
-figure-heloc,figr_heloc,Figure Heloc,1.03,-0.05697,0.2302,gainer_7d
-hashnote-usyc,usyc,Circle USYC,1.14,0.00942,0.0659,gainer_7d
-rain,rain,Rain,0.0064158,-3.72335,-23.9519,loser_7d
-aave,aave,Aave,124.93,-3.69699,-14.9293,loser_7d
-bitway,btw,Bitway,1.48,-17.48764,-12.8139,loser_7d
-near,near,NEAR Protocol,4.23,-1.86133,-12.5553,loser_7d
-hedera-hashgraph,hbar,Hedera,0.070514,-3.8127,-11.7829,loser_7d
-the-open-network,gram,Gram (prev. Toncoin),1.18,-2.46707,-10.7117,loser_7d
-cardano,ada,Cardano,0.192049,-2.76764,-10.3638,loser_7d
-crypto-com-chain,cro,Cronos,0.051448,-2.34376,-10.1802,loser_7d
-sui,sui,Sui,0.881953,-2.71582,-10.0215,loser_7d
-ondo-finance,ondo,Ondo,0.388548,-3.98903,-9.7494,loser_7d
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.15,0.20016,0.1988,gainer_24h
+pepe,pepe,Pepe,5.02e-06,0.14823,-0.6087,gainer_24h
+hashnote-usyc,usyc,Circle USYC,1.14,0.00968,0.0691,gainer_24h
+ripple-usd,rlusd,Ripple USD,1.0,0.00177,-0.0024,gainer_24h
+leo-token,leo,LEO Token,9.35,0.0002,-0.8564,gainer_24h
+blackrock-usd-institutional-digital-liquidity-fund,buidl,BlackRock USD Institutional Digital Liquidity Fund,1.0,0.0,0.0,gainer_24h
+paypal-usd,pyusd,PayPal USD,1.0,-0.01466,0.2028,gainer_24h
+global-dollar,usdg,Global Dollar,1.0,-0.01521,-0.0043,gainer_24h
+usds,usds,USDS,1.0,-0.01791,0.2553,gainer_24h
+dai,dai,Dai,1.0,-0.02978,0.0098,gainer_24h
+ripple,xrp,XRP,1.19,-9.99528,-6.3745,loser_24h
+ethena,ena,Ethena,0.164367,-9.39839,-13.5906,loser_24h
+stellar,xlm,Stellar,0.152908,-8.71332,-8.3765,loser_24h
+uniswap,uni,Uniswap,6.99,-8.45644,3.3859,loser_24h
+ondo-finance,ondo,Ondo,0.37551,-8.43415,-5.4641,loser_24h
+bitcoin-cash,bch,Bitcoin Cash,265.66,-8.13358,-6.7955,loser_24h
+quant-network,qnt,Quant,189.0,-7.99092,-4.003,loser_24h
+ethereum,eth,Ethereum,2227.31,-7.93365,-1.042,loser_24h
+cardano,ada,Cardano,0.183623,-7.66885,-5.6818,loser_24h
+sui,sui,Sui,0.858404,-7.60854,-4.1106,loser_24h
+canton-network,cc,Canton,0.100912,-1.55157,9.031,gainer_7d
+monero,xmr,Monero,616.52,-2.96536,4.3549,gainer_7d
+uniswap,uni,Uniswap,6.99,-8.45644,3.3859,gainer_7d
+aave,aave,Aave,130.01,-2.40226,2.5803,gainer_7d
+tether-gold,xaut,Tether Gold,4055.19,-1.18706,1.3947,gainer_7d
+figure-heloc,figr_heloc,Figure Heloc,1.035,-1.00506,0.493,gainer_7d
+usds,usds,USDS,1.0,-0.01791,0.2553,gainer_7d
+paypal-usd,pyusd,PayPal USD,1.0,-0.01466,0.2028,gainer_7d
+ondo-us-dollar-yield,usdy,Ondo US Dollar Yield,1.15,0.20016,0.1988,gainer_7d
+ethena-usde,usde,Ethena USDe,0.998654,-0.08337,0.0893,gainer_7d
+memecore,m,MemeCore,0.828961,-0.46406,-19.1969,loser_7d
+hyperliquid,hype,Hyperliquid,77.61,-7.35188,-17.247,loser_7d
+near,near,NEAR Protocol,3.73,-7.46421,-14.7668,loser_7d
+ethena,ena,Ethena,0.164367,-9.39839,-13.5906,loser_7d
+solana,sol,Solana,89.71,-7.08503,-8.7237,loser_7d
+stellar,xlm,Stellar,0.152908,-8.71332,-8.3765,loser_7d
+bittensor,tao,Bittensor,220.62,-6.63874,-7.7168,loser_7d
+the-open-network,gram,Gram (prev. Toncoin),1.097,-5.83727,-7.6444,loser_7d
+okb,okb,OKB,104.21,-6.34409,-7.5196,loser_7d
+rain,rain,Rain,0.0060467,-2.13374,-7.0159,loser_7d
